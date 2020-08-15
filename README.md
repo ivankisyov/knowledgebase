@@ -16,3 +16,11 @@ My collection of useful information, related to different web dev topics
 ### Videos
 - [My YouTube Angular Playlist](https://www.youtube.com/playlist?list=PLgxIWyhARVtnq3pQHJ8SuIhblZ4EAG6D-)
 - [CRUD Tutorial](https://www.youtube.com/watch?v=JYPyy-hvjYc&list=PL6n9fhu94yhXwcl3a6rIfAI7QmGYIkfK5&index=2&t=0s)
+
+### Repos
+
+#### Focus on app folder structure
+
+- [Example #1](https://github.com/gothinkster/angular-realworld-example-app)
+- [Example #2](https://github.com/tomastrajan/angular-ngrx-material-starter)
+- [Example #3](https://github.com/ngx-rocket/starter-kit)
