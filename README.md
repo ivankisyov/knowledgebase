@@ -7,6 +7,9 @@ My collection of useful information, related to different web dev topics
 - [Minko Gechev](https://blog.mgechev.com/)
 - [Tomas Trajan](https://medium.com/@tomastrajan)
 
+### VideoCast
+- [Angular Air](https://angularair.com/)
+
 ### Articles
 
 - [Angular App Architecture](https://medium.com/@tomastrajan/6-best-practices-pro-tips-for-angular-cli-better-developer-experience-7b328bc9db81)
