@@ -6,6 +6,7 @@ My collection of useful information, related to different web dev topics
 ### Blogs
 - [Minko Gechev](https://blog.mgechev.com/)
 - [Tomas Trajan](https://medium.com/@tomastrajan)
+- [Wesley Grimes](https://wesleygrimes.com/)
 
 ### VideoCast
 - [Angular Air](https://angularair.com/)
