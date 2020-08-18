@@ -29,3 +29,7 @@ My collection of useful information, related to different web dev topics
 - [Example #1](https://github.com/gothinkster/angular-realworld-example-app)
 - [Example #2](https://github.com/tomastrajan/angular-ngrx-material-starter)
 - [Example #3](https://github.com/ngx-rocket/starter-kit)
+
+### VS Code extensions
+
+- [Angular Essentials (Version 9)](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials&wt.mc_id=vscode_angular_snippets-github-jopapa)
