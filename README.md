@@ -8,6 +8,12 @@ My collection of useful information, related to different web dev topics
 - [Tomas Trajan](https://medium.com/@tomastrajan)
 - [Wesley Grimes](https://wesleygrimes.com/)
 
+### Angular People
+
+- [Mike Brocchi](https://twitter.com/brocco)
+- [Justin Schwartzenberger](https://twitter.com/schwarty)
+- [Deborah Kurata](https://twitter.com/DeborahKurata)
+
 ### VideoCast
 - [Angular Air](https://angularair.com/)
 
