@@ -48,4 +48,8 @@ My collection of useful information, related to different web dev topics
 - [Start using ngrx/effects for this](https://indepth.dev/start-using-ngrx-effects-for-this/)
 - [How to upgrade your Angular and NgRx Apps to v8](https://ultimatecourses.com/blog/how-to-upgrade-your-angular-and-ngrx-apps-to-v8)
 
+## RxJS
 
+### Articles
+
+- [dev.to](https://dev.to/rxjs)
