@@ -52,4 +52,5 @@ My collection of useful information, related to different web dev topics
 
 ### Articles
 
+- [The SIP principle](https://blog.strongbrew.io/the-sip-principle/)
 - [dev.to](https://dev.to/rxjs)
