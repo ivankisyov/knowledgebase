@@ -50,6 +50,9 @@ My collection of useful information, related to different web dev topics
 
 ## RxJS
 
+> **Reactive programming: What Data Will Change, and What Data Do the Components Need?**  
+_**Learn to think in streams**_. A stream is a collection of events that will change over time. Think about what can change in your application and call these streams of data. Let’s call them source streams...[check out the rest of the article](https://blog.strongbrew.io/thinking-reactively-in-angular-and-rxjs/)
+
 ### Articles
 
 - [The SIP principle](https://blog.strongbrew.io/the-sip-principle/)
