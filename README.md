@@ -13,6 +13,7 @@ My collection of useful information, related to different web dev topics
 - [Mike Brocchi](https://twitter.com/brocco)
 - [Justin Schwartzenberger](https://twitter.com/schwarty)
 - [Deborah Kurata](https://twitter.com/DeborahKurata)
+- [Thomas Burleson](https://twitter.com/thomasburleson)
 
 ### VideoCast
 - [Angular Air](https://angularair.com/)
