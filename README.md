@@ -45,13 +45,18 @@ My collection of useful information, related to different web dev topics
 
 - [Angular Essentials (Version 9)](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials&wt.mc_id=vscode_angular_snippets-github-jopapa)
 
-## Angular - NgRx
+## NgRx
 
 ### Articles
 
 - [Best Practices for Enterprise Angular Applications](https://itnext.io/ngrx-best-practices-for-enterprise-angular-applications-6f00bcdf36d7)
 - [Start using ngrx/effects for this](https://indepth.dev/start-using-ngrx-effects-for-this/)
 - [How to upgrade your Angular and NgRx Apps to v8](https://ultimatecourses.com/blog/how-to-upgrade-your-angular-and-ngrx-apps-to-v8)
+
+#### Repos
+
+- [angular-university: ngrx-course](https://github.com/angular-university/ngrx-course)
+- [samjulien: demonstrating NgRx concepts](https://github.com/samjulien/nostalgia-mart)
 
 ## RxJS
 
