@@ -14,6 +14,8 @@ My collection of useful information, related to different web dev topics
 - [Justin Schwartzenberger](https://twitter.com/schwarty)
 - [Deborah Kurata](https://twitter.com/DeborahKurata)
 - [Thomas Burleson](https://twitter.com/thomasburleson)
+- [Sam Julien](https://twitter.com/samjulien)
+- [Mike Ryan](https://twitter.com/MikeRyanDev)
 
 ### VideoCast
 - [Angular Air](https://angularair.com/)
