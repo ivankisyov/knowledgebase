@@ -55,7 +55,11 @@ My collection of useful information, related to different web dev topics
 - [Start using ngrx/effects for this](https://indepth.dev/start-using-ngrx-effects-for-this/)
 - [How to upgrade your Angular and NgRx Apps to v8](https://ultimatecourses.com/blog/how-to-upgrade-your-angular-and-ngrx-apps-to-v8)
 
-#### Repos
+### Videos
+
+- [John Crowson - Using MockStore in NgRx 8](https://www.youtube.com/watch?v=Jh3uEy6dcVo&list=PLgxIWyhARVtlXIzbCYhYK5xsPPO6A6tL8&index=10&t=0s)
+
+### Repos
 
 - [angular-university: ngrx-course](https://github.com/angular-university/ngrx-course)
 - [samjulien: demonstrating NgRx concepts](https://github.com/samjulien/nostalgia-mart)
