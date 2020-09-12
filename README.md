@@ -35,6 +35,10 @@ My collection of useful information, related to different web dev topics
 
 - [nrwl/connect](https://connect.nrwl.io/)
 
+### Tools
+
+- [Angular Checklist](https://angular-checklist.io/default/checklist/architecture)
+
 ### Repos
 
 #### Focus on app folder structure
