@@ -78,3 +78,9 @@ _**Learn to think in streams**_. A stream is a collection of events that will ch
 
 - [The SIP principle](https://blog.strongbrew.io/the-sip-principle/)
 - [dev.to](https://dev.to/rxjs)
+
+### Testing
+
+#### Marble testing
+
+- [Testing asynchronous RxJs operators](https://medium.com/angular-in-depth/testing-asynchronous-rxjs-operators-5495784f249e)
