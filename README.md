@@ -84,3 +84,4 @@ _**Learn to think in streams**_. A stream is a collection of events that will ch
 #### Marble testing
 
 - [Testing asynchronous RxJs operators](https://medium.com/angular-in-depth/testing-asynchronous-rxjs-operators-5495784f249e)
+- [Marble testing with RxJS testing utils](https://medium.com/@kevinkreuzer/marble-testing-with-rxjs-testing-utils-3ae36ac3346a)
