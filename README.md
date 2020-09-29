@@ -4,9 +4,10 @@ My collection of useful information, related to different web dev topics
 ## Angular 
 
 ### Blogs
-- [Minko Gechev](https://blog.mgechev.com/)
+- [Kevin Kreuzer](https://kreuzercode.com/)
 - [Tomas Trajan](https://medium.com/@tomastrajan)
 - [Wesley Grimes](https://wesleygrimes.com/)
+- [Minko Gechev](https://blog.mgechev.com/)
 
 ### Angular People
 
