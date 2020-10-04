@@ -85,3 +85,10 @@ _**Learn to think in streams**_. A stream is a collection of events that will ch
 
 - [Testing asynchronous RxJs operators](https://medium.com/angular-in-depth/testing-asynchronous-rxjs-operators-5495784f249e)
 - [Marble testing with RxJS testing utils](https://medium.com/@kevinkreuzer/marble-testing-with-rxjs-testing-utils-3ae36ac3346a)
+
+## [NX](https://nx.dev/angular)
+
+### Tutorials
+
+- [Nx Explainer: Dev Tools for Monorepos, In-Depth with Victor Savkin](https://www.youtube.com/watch?v=h5FIGDn5YM0&t=23s&ab_channel=Nrwl-NarwhalTechnologiesInc.)
+- [Nx Workspaces Course (Free version) - By Nrwl](https://www.youtube.com/watch?v=2mYLe9Kp9VM&list=PLakNactNC1dH38AfqmwabvOszDmKriGco&ab_channel=Nrwl-NarwhalTechnologiesInc.)
