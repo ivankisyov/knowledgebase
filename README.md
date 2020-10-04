@@ -92,3 +92,4 @@ _**Learn to think in streams**_. A stream is a collection of events that will ch
 
 - [Nx Explainer: Dev Tools for Monorepos, In-Depth with Victor Savkin](https://www.youtube.com/watch?v=h5FIGDn5YM0&t=23s&ab_channel=Nrwl-NarwhalTechnologiesInc.)
 - [Nx Workspaces Course (Free version) - By Nrwl](https://www.youtube.com/watch?v=2mYLe9Kp9VM&list=PLakNactNC1dH38AfqmwabvOszDmKriGco&ab_channel=Nrwl-NarwhalTechnologiesInc.)
+- [NX Docs: Resources](https://nx.dev/latest/angular/getting-started/resources)
