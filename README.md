@@ -11,6 +11,7 @@ My collection of useful information, related to different web dev topics
 
 ### Angular People
 
+- [Victor Savkin](https://vsavkin.com/)
 - [Mike Brocchi](https://twitter.com/brocco)
 - [Justin Schwartzenberger](https://twitter.com/schwarty)
 - [Deborah Kurata](https://twitter.com/DeborahKurata)
