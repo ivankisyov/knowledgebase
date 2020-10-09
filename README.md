@@ -4,6 +4,7 @@ My collection of useful information, related to different web dev topics
 ## Angular 
 
 ### Blogs
+- [Victor Savkin](https://blog.nrwl.io/@vsavkin)
 - [Kevin Kreuzer](https://kreuzercode.com/)
 - [Tomas Trajan](https://medium.com/@tomastrajan)
 - [Wesley Grimes](https://wesleygrimes.com/)
