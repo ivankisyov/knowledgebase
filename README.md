@@ -56,6 +56,11 @@ My collection of useful information, related to different web dev topics
 
 ## NgRx
 
+### Why using store solution:
+
+>...At this point, we have a good view on what the problem was in the Facebook application: the Facebook home screen + chat needed to display multiple View Models of the Same Model data at the same time on the same screen....[check out the rest of the article](https://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course/)
+
+
 ### Articles
 
 - [Managing State in Angular Applications using NgRx](https://blog.nrwl.io/using-ngrx-4-to-manage-state-in-angular-applications-64e7a1f84b7b)
