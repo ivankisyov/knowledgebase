@@ -74,8 +74,13 @@ My collection of useful information, related to different web dev topics
 
 ### Repos
 
+- [ngrx repo](https://github.com/ngrx/platform/tree/master/projects/example-app)
 - [angular-university: ngrx-course](https://github.com/angular-university/ngrx-course)
 - [samjulien: demonstrating NgRx concepts](https://github.com/samjulien/nostalgia-mart)
+
+### NgRx Entity
+
+- [Angular NgRx Entity - Complete Practical Guide](https://blog.angular-university.io/ngrx-entity/)
 
 ## RxJS
 
