@@ -111,7 +111,11 @@ _**Learn to think in streams**_. A stream is a collection of events that will ch
 
 ## Forms
 
+### Beginner Level
 - [Intro to Forms](https://www.youtube.com/watch?v=xYv9lsrV0s4&t=935s&ab_channel=AngularConnect)
+### Intermediate Level
+- [The Best Way to build reactive sub-forms with Angular](https://medium.com/@tomastrajan/angular-reactive-sub-forms-type-safe-without-duplication-dbd24225e1e8)
+### Advanced
 - [Reducing the forms boilerplate — make your Angular forms reusable](https://medium.com/angular-in-depth/reducing-the-forms-boilerplate-make-your-angular-forms-reusable-ee06d7c07f47)
     - [Angular Forms – Kara Erickson](https://www.youtube.com/watch?v=CD_t3m2WMM8&ab_channel=AngularConnect)
 
