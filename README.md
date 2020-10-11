@@ -109,4 +109,9 @@ _**Learn to think in streams**_. A stream is a collection of events that will ch
 - [Nx Workspaces Course (Free version) - By Nrwl](https://www.youtube.com/watch?v=2mYLe9Kp9VM&list=PLakNactNC1dH38AfqmwabvOszDmKriGco&ab_channel=Nrwl-NarwhalTechnologiesInc.)
 - [NX Docs: Resources](https://nx.dev/latest/angular/getting-started/resources)
 
+## Forms
+
+- (Intro to Forms)[https://www.youtube.com/watch?v=xYv9lsrV0s4&t=935s&ab_channel=AngularConnect]
+-(Reducing the forms boilerplate — make your Angular forms reusable)[https://medium.com/angular-in-depth/reducing-the-forms-boilerplate-make-your-angular-forms-reusable-ee06d7c07f47]
+
 
