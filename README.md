@@ -70,6 +70,7 @@ My collection of useful information, related to different web dev topics
 
 ### Videos
 
+- [Easy Angular Unit Testing in NgRx - JavaScript Marathon](https://www.youtube.com/watch?v=NOT-nJLDnyg&t=1456s&ab_channel=ThisDotMedia)
 - [John Crowson - Using MockStore in NgRx 8](https://www.youtube.com/watch?v=Jh3uEy6dcVo&list=PLgxIWyhARVtlXIzbCYhYK5xsPPO6A6tL8&index=10&t=0s)
 
 ### Repos
