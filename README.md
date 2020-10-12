@@ -110,6 +110,9 @@ _**Learn to think in streams**_. A stream is a collection of events that will ch
 
 ## Architecture
 
+- [How to architect epic Angular app in less than 10 minutes](https://medium.com/@tomastrajan/how-to-build-epic-angular-app-with-clean-architecture-91640ed1656)
+- [Handle single import of core module](https://github.com/tomastrajan/angular-ngrx-material-starter/blob/master/projects/angular-ngrx-material-starter/src/app/core/core.module.ts)
+
 ### [NX](https://nx.dev/angular)
 
 #### Tutorials
