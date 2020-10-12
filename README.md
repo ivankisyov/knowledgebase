@@ -125,7 +125,7 @@ _**Learn to think in streams**_. A stream is a collection of events that will ch
 
 - [nrwl/connect](https://connect.nrwl.io/)
 
-### Tools
+### Best Practices
 
 - [Angular Checklist](https://angular-checklist.io/default/checklist/architecture)
 
