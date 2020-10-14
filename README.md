@@ -62,6 +62,7 @@ _**Learn to think in streams**_. A stream is a collection of events that will ch
 
 ### Articles
 
+- [Avoiding switchMap-related Bugs](https://ncjamieson.com/avoiding-switchmap-related-bugs/)
 - [The SIP principle](https://blog.strongbrew.io/the-sip-principle/)
 - [dev.to](https://dev.to/rxjs)
 
