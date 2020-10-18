@@ -145,6 +145,7 @@ _**Learn to think in streams**_. A stream is a collection of events that will ch
 ## Articles
 
 - [Architecture Scenarios](https://auth0.com/docs/architecture-scenarios)
+- [Token Storage](https://auth0.com/docs/tokens/token-storage)
 
 
 
