@@ -1,7 +1,7 @@
 # Knowledge base
 My collection of useful information, related to different web dev topics
 
-## Angular 
+# Angular 
 
 ### Blogs
 - [Victor Savkin](https://blog.nrwl.io/@vsavkin)
@@ -139,6 +139,12 @@ _**Learn to think in streams**_. A stream is a collection of events that will ch
 ### VS Code extensions
 
 - [Angular Essentials (Version 9)](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials&wt.mc_id=vscode_angular_snippets-github-jopapa)
+
+# Authentication and Authorization
+
+## Articles
+
+- [Architecture Scenarios](https://auth0.com/docs/architecture-scenarios)
 
 
 
