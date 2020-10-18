@@ -85,6 +85,12 @@ _**Learn to think in streams**_. A stream is a collection of events that will ch
 - [The Control Value Accessor | Jennifer Wadella](https://www.youtube.com/watch?v=kVbLSN0AW-Y&t=3s&ab_channel=ng-conf)
     - [repo](https://github.com/tehfedaykin/galaxy-rating-app)
     
+## Authentication
+
+### Articles
+
+- [The Complete Guide to Angular User Authentication with Auth0](https://auth0.com/blog/complete-guide-to-angular-user-authentication/)
+    
 ## NgRx
 
 ### Why using store solution:
