@@ -41,7 +41,7 @@ My collection of useful information, related to different web dev topics
 
 ### Repos
 
-#### Focus on app folder structure
+#### App Folder Structure
 
 - [Example #1](https://github.com/gothinkster/angular-realworld-example-app)
 - [Example #2](https://github.com/tomastrajan/angular-ngrx-material-starter)
@@ -127,6 +127,11 @@ _**Learn to think in streams**_. A stream is a collection of events that will ch
 ### NgRx Entity
 
 - [Angular NgRx Entity - Complete Practical Guide](https://blog.angular-university.io/ngrx-entity/)
+
+## i18n
+
+- [Building Angular apps with internationalization (i18n) in mind | Naomi Meyer](https://www.youtube.com/watch?v=cUDUqqOtBvM&ab_channel=AngularConnect)
+- [ngx-translate](http://www.ngx-translate.com/)
 
 ### Learning platforms
 
