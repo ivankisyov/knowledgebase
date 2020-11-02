@@ -145,6 +145,9 @@ _**Learn to think in streams**_. A stream is a collection of events that will ch
 
 - [Angular Essentials (Version 9)](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials&wt.mc_id=vscode_angular_snippets-github-jopapa)
 
+### Angular and Prettier
+- [Setting up Prettier in an Angular CLI Project](https://medium.com/@victormejia/setting-up-prettier-in-an-angular-cli-project-2f50c3b9a537)
+
 # Authentication and Authorization
 
 ## Articles
