@@ -156,7 +156,10 @@ _**Learn to think in streams**_. A stream is a collection of events that will ch
 - [Token Storage](https://auth0.com/docs/tokens/token-storage)
 - [MFA](https://auth0.com/blog/multifactor-authentication-mfa/)
 
+# Github pages
 
+## Deploy angular app
+- [useful link](https://dzone.com/articles/deploy-angular-app-on-github-pages)
 
 
 
