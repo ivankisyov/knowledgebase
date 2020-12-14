@@ -145,6 +145,7 @@ _**Learn to think in streams**_. A stream is a collection of events that will ch
 ### Best Practices
 
 - [Angular Checklist](https://angular-checklist.io/default/checklist/architecture)
+- [Refactoring Angular Apps – How To Keep Angular Apps Clean](https://christianlydemann.com/refactoring-angular-apps-how-to-keep-angular-apps-clean/)
 
 ### VS Code extensions
 
