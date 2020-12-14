@@ -73,6 +73,13 @@ _**Learn to think in streams**_. A stream is a collection of events that will ch
 
 ### Testing
 
+#### Articles
+- [all-you-need-to-know-about-mocking-in-angular-tests](https://christianlydemann.com/all-you-need-to-know-about-mocking-in-angular-tests/)
+
+#### Testing libs
+- [ng-mocks](https://github.com/ike18t/ng-mocks)
+- [spectator](https://github.com/ngneat/spectator)
+
 #### Marble testing
 
 - [Testing asynchronous RxJs operators](https://medium.com/angular-in-depth/testing-asynchronous-rxjs-operators-5495784f249e)
