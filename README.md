@@ -1,6 +1,9 @@
 # Knowledge base
 My collection of useful information, related to different web dev topics
 
+# Code Reviews
+- [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
+
 # Angular 
 
 ### Blogs
