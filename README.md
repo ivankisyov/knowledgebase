@@ -7,21 +7,21 @@ My collection of useful information, related to different web dev topics
 # Code Reviews
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
-### Testing
+# Testing
 
-#### Times and Dates
+### Times and Dates
 - [How to correctly mock Moment.js/dates in Jest](https://medium.com/free-code-camp/how-to-correctly-mock-moment-js-dates-in-jest-25fa2528ca11)
 
-#### Angular Testing
+### Angular Testing
 
-##### Articles
+#### Articles
 - [all-you-need-to-know-about-mocking-in-angular-tests](https://christianlydemann.com/all-you-need-to-know-about-mocking-in-angular-tests/)
 
-##### Testing libs
+#### Testing libs
 - [ng-mocks](https://github.com/ike18t/ng-mocks)
 - [spectator](https://github.com/ngneat/spectator)
 
-##### Marble testing
+#### Marble testing
 
 - [Testing asynchronous RxJs operators](https://medium.com/angular-in-depth/testing-asynchronous-rxjs-operators-5495784f249e)
 - [Marble testing with RxJS testing utils](https://medium.com/@kevinkreuzer/marble-testing-with-rxjs-testing-utils-3ae36ac3346a)
