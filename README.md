@@ -7,6 +7,25 @@ My collection of useful information, related to different web dev topics
 # Code Reviews
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
+### Testing
+
+#### Times and Dates
+- [How to correctly mock Moment.js/dates in Jest](https://medium.com/free-code-camp/how-to-correctly-mock-moment-js-dates-in-jest-25fa2528ca11)
+
+#### Angular Testing
+
+##### Articles
+- [all-you-need-to-know-about-mocking-in-angular-tests](https://christianlydemann.com/all-you-need-to-know-about-mocking-in-angular-tests/)
+
+##### Testing libs
+- [ng-mocks](https://github.com/ike18t/ng-mocks)
+- [spectator](https://github.com/ngneat/spectator)
+
+##### Marble testing
+
+- [Testing asynchronous RxJs operators](https://medium.com/angular-in-depth/testing-asynchronous-rxjs-operators-5495784f249e)
+- [Marble testing with RxJS testing utils](https://medium.com/@kevinkreuzer/marble-testing-with-rxjs-testing-utils-3ae36ac3346a)
+
 # Angular 
 
 ### Blogs
@@ -76,20 +95,6 @@ _**Learn to think in streams**_. A stream is a collection of events that will ch
 - [Avoiding switchMap-related Bugs](https://ncjamieson.com/avoiding-switchmap-related-bugs/)
 - [The SIP principle](https://blog.strongbrew.io/the-sip-principle/)
 - [dev.to](https://dev.to/rxjs)
-
-### Testing
-
-#### Articles
-- [all-you-need-to-know-about-mocking-in-angular-tests](https://christianlydemann.com/all-you-need-to-know-about-mocking-in-angular-tests/)
-
-#### Testing libs
-- [ng-mocks](https://github.com/ike18t/ng-mocks)
-- [spectator](https://github.com/ngneat/spectator)
-
-#### Marble testing
-
-- [Testing asynchronous RxJs operators](https://medium.com/angular-in-depth/testing-asynchronous-rxjs-operators-5495784f249e)
-- [Marble testing with RxJS testing utils](https://medium.com/@kevinkreuzer/marble-testing-with-rxjs-testing-utils-3ae36ac3346a)
 
 ## Forms
 
