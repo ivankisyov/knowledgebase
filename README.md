@@ -1,6 +1,9 @@
 # Knowledge base
 My collection of useful information, related to different web dev topics
 
+## These are the books you're looking for
+- [youtube video](https://youtu.be/H6OQ2RESp4s?t=1910)
+
 # Code Reviews
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
