@@ -1,7 +1,7 @@
 # Knowledge base
 My collection of useful information, related to different web dev topics
 
-## These are the books you're looking for
+# These are the books you're looking for
 - [youtube video](https://youtu.be/H6OQ2RESp4s?t=1910)
 
 # Code Reviews
@@ -25,6 +25,9 @@ My collection of useful information, related to different web dev topics
 
 - [Testing asynchronous RxJs operators](https://medium.com/angular-in-depth/testing-asynchronous-rxjs-operators-5495784f249e)
 - [Marble testing with RxJS testing utils](https://medium.com/@kevinkreuzer/marble-testing-with-rxjs-testing-utils-3ae36ac3346a)
+
+# TypeScript
+- [Generics and Augmentation will Make You a TypeScript Wizard](https://medium.com/iqoqo-engineering/two-advanced-techniques-to-make-you-a-typescript-wizard-df42e00b1cf8)
 
 # Angular 
 
