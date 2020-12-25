@@ -7,6 +7,7 @@ My collection of useful information, related to different web dev topics
 # Notes on clean code:
 - bad code tries to do too much
 - clean code has a single purpose, it is focused
+- **Extract Method refactoring** - one method that says more clearly what it does, and some submethods saying how it is done
 
 # Code Reviews
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
