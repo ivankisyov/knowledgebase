@@ -9,6 +9,7 @@ My collection of useful information, related to different web dev topics
 - clean code has a single purpose, it is focused
 - **Extract Method refactoring** - one method that says more clearly what it does, and some submethods saying how it is done
 - The next time you write a line of code, remember you are an author, writing for readers who will judge your effort.
+- **The Boy Scouts rule** - Leave the campground cleaner than you found it
 
 # Code Reviews
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
