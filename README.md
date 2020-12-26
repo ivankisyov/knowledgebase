@@ -4,13 +4,18 @@ My collection of useful information, related to different web dev topics
 # These are the books you're looking for
 - [youtube video](https://youtu.be/H6OQ2RESp4s?t=1910)
 
-# Notes on clean code:
+# Notes on Robert Martin's Clean Code book:
 - bad code tries to do too much
 - clean code has a single purpose, it is focused
 - **Extract Method refactoring** - one method that says more clearly what it does, and some submethods saying how it is done
 - The next time you write a line of code, remember you are an author, writing for readers who will judge your effort.
 - **The Boy Scouts rule** - Leave the campground cleaner than you found it
 - clarity is king, professionals write code that others can understand
+- About functions - Making the code read like a top-down set of TO paragraphs is an effective technique for
+keeping the abstraction level consistent:
+> To include the setups and teardowns, we include setups, then we include the test page content, and then we include the teardowns.
+> To include the setups, we include the suite setup if this is a suite, then we include the regular setup.
+> To include the suite setup
 
 # Code Reviews
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
