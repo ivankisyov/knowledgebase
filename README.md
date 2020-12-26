@@ -14,7 +14,7 @@ My collection of useful information, related to different web dev topics
 - About functions - Making the code read like a top-down set of TO paragraphs is an effective technique for
 keeping the abstraction level consistent:
 > "To include the setups and teardowns, we include setups, then we include the test page content, and then we include the teardowns.
-
+>
 > To include the setups, we include the suite setup if this is a suite, then we include the regular setup.
 >
 > To include the suite setup..."
