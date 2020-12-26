@@ -16,7 +16,7 @@ keeping the abstraction level consistent:
 > "To include the setups and teardowns, we include setups, then we include the test page content, and then we include the teardowns.
 
 > To include the setups, we include the suite setup if this is a suite, then we include the regular setup.
-
+>
 > To include the suite setup..."
 
 - The smaller and more focused a function is, the easier it is to choose a descriptive name.
@@ -24,11 +24,11 @@ keeping the abstraction level consistent:
 - the ideal number of function's arguments is 0 :) You should avoid having more than two arguments
 
 > "Master programmers think of systems as stories to be told
-
+>
 > never forget that your real goal is to tell the story of the system, and that the functions
-
+>
 > you write need to fit cleanly together into a clear and precise language to help you with
-
+>
 > that telling"
 
 # Code Reviews
