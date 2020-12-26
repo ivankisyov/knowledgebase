@@ -16,6 +16,7 @@ keeping the abstraction level consistent:
 > To include the setups and teardowns, we include setups, then we include the test page content, and then we include the teardowns.
 > To include the setups, we include the suite setup if this is a suite, then we include the regular setup.
 > To include the suite setup
+- The smaller and more focused a function is, the easier it is to choose a descriptive name.
 
 # Code Reviews
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
