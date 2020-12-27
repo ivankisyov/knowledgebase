@@ -30,7 +30,7 @@ keeping the abstraction level consistent:
 > you write need to fit cleanly together into a clear and precise language to help you with
 >
 > that telling"
-- Don’t comment bad code—rewrite it
+- Don’t comment bad code - rewrite it
 
 # Code Reviews
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
