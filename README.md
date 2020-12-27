@@ -31,6 +31,7 @@ keeping the abstraction level consistent:
 >
 > that telling"
 - Don’t comment bad code - rewrite it
+- Short functions don’t need much description. A well-chosen name for a small function that does one thing is usually better than a comment header
 
 # Code Reviews
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
