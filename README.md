@@ -32,6 +32,10 @@ keeping the abstraction level consistent:
 > that telling"
 - Don’t comment bad code - rewrite it
 - Short functions don’t need much description. A well-chosen name for a small function that does one thing is usually better than a comment header
+- Objects expose behavior and hide data
+- Data structures expose data and have no significant behavior
+- The quintessential form of a data structure is a class with public variables and no functions.
+This is sometimes called a data transfer object, or DTO
 
 # Code Reviews
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
