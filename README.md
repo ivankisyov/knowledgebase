@@ -37,12 +37,20 @@ keeping the abstraction level consistent:
 - The quintessential form of a data structure is a class with public variables and no functions.
 This is sometimes called a data transfer object, or DTO
 - what makes code readable: clarity, simplicity and density of expression(code in succinct and expressive forms, code not loaded with details that interfere with its expressiveness)
-
+- **about unit tests**:
 > ...having an automated suite of unit tests that cover the production code is the key to
 >
 > keeping your design and architecture as clean as possible. Tests enable all the -ilities,
 >
 > because **tests enable change**.
+- **about classes**:
+> ...We want our systems to be composed of many small classes, not a few large ones. 
+>
+> Each small class encapsulates a single responsibility, has a single reason to change, 
+>
+> and collaborates with a few others to achieve the desired system behaviors.
+- We should also be able to write a brief description of the class in about 25 words,
+without using the words “if,” “and,” “or,” or “but.”
 
 # Code Reviews
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
