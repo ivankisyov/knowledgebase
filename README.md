@@ -77,6 +77,9 @@ without using the words “if,” “and,” “or,” or “but.”
 # TypeScript
 - [Generics and Augmentation will Make You a TypeScript Wizard](https://medium.com/iqoqo-engineering/two-advanced-techniques-to-make-you-a-typescript-wizard-df42e00b1cf8)
 
+# JWT
+- [JWT: The Complete Guide to JSON Web Tokens](https://blog.angular-university.io/angular-jwt/)
+
 # Angular 
 
 ### Blogs
