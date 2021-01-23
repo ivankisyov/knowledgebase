@@ -60,6 +60,9 @@ but also to become one of its authorities
 - You might be “just a programmer,” but being able to speak to your business clients in the language
 of their business domain is a critical skill
 - think about business domains you invest your time in
+- The people around you affect your own performance. Choose your crowd wisely
+- Always be the worst guy in every band you’re in
+- Thinking about not losing is not the way to win
 
 # Code Reviews
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
