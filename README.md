@@ -52,6 +52,15 @@ This is sometimes called a data transfer object, or DTO
 - We should also be able to write a brief description of the class in about 25 words,
 without using the words “if,” “and,” “or,” or “but.”
 
+# Notes on The Passionate Programmer by Chad Fowler
+- Stay focused on winning, and the fear of losing will be forever a memory
+- You’re about to make a big investment. It may not be a lot of money, but it’s **your time — your life**
+- software person should understand a business domain not only well enough to develop software for it
+but also to become one of its authorities
+- You might be “just a programmer,” but being able to speak to your business clients in the language
+of their business domain is a critical skill
+- think about business domains you invest your time in
+
 # Code Reviews
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
