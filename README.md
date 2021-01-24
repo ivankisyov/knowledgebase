@@ -63,6 +63,8 @@ of their business domain is a critical skill
 - The people around you affect your own performance. Choose your crowd wisely
 - Always be the worst guy in every band you’re in
 - Thinking about not losing is not the way to win
+- If you want to really learn something, try teaching it to someone else
+- whenever I want to really learn about something, write about it
 
 # Code Reviews
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
