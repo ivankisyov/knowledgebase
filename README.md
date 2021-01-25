@@ -88,6 +88,9 @@ of their business domain is a critical skill
 - [Testing asynchronous RxJs operators](https://medium.com/angular-in-depth/testing-asynchronous-rxjs-operators-5495784f249e)
 - [Marble testing with RxJS testing utils](https://medium.com/@kevinkreuzer/marble-testing-with-rxjs-testing-utils-3ae36ac3346a)
 
+# Regular Expressions
+- [Learn Regular Expressions](https://www.freecodecamp.org/news/learn-regular-expressions-with-this-free-course-37511963d278/)
+
 # TypeScript
 - [Generics and Augmentation will Make You a TypeScript Wizard](https://medium.com/iqoqo-engineering/two-advanced-techniques-to-make-you-a-typescript-wizard-df42e00b1cf8)
 
