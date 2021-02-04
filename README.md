@@ -87,6 +87,8 @@ of their business domain is a critical skill
 
 - [Testing asynchronous RxJs operators](https://medium.com/angular-in-depth/testing-asynchronous-rxjs-operators-5495784f249e)
 - [Marble testing with RxJS testing utils](https://medium.com/@kevinkreuzer/marble-testing-with-rxjs-testing-utils-3ae36ac3346a)
+- [todo#1](https://github.com/ReactiveX/rxjs/tree/master/spec/operators)
+- [todo#2 check getting started](https://github.com/cartant/rxjs-marbles)
 
 # Regular Expressions
 - [Learn Regular Expressions](https://www.freecodecamp.org/news/learn-regular-expressions-with-this-free-course-37511963d278/)
