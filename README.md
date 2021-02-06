@@ -85,6 +85,7 @@ of their business domain is a critical skill
 
 #### Marble testing
 
+- [RxJS unit testing in Angular application](https://www.udemy.com/course/rxjs-unit-testing-in-angular-application-the-whole-picture/)
 - [Testing asynchronous RxJs operators](https://medium.com/angular-in-depth/testing-asynchronous-rxjs-operators-5495784f249e)
 - [Marble testing with RxJS testing utils](https://medium.com/@kevinkreuzer/marble-testing-with-rxjs-testing-utils-3ae36ac3346a)
 - [todo#1](https://github.com/ReactiveX/rxjs/tree/master/spec/operators)
