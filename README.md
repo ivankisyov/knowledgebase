@@ -4,6 +4,37 @@ My collection of useful information, related to different web dev topics
 # These are the books you're looking for
 - [youtube video](https://youtu.be/H6OQ2RESp4s?t=1910)
 
+Too Lazy, Did Not Watch ^^:
+1. Inside the Machine (Jon Stokes)  
+2. Code: The Hidden Language of Computer Hardware and Software 
+3. Concrete Mathematics (Ronald L. Graham, Donald E. Knuth и Oren Patashnik) 
+4. Structure and Interpretation of Computer Programs 
+5. How to Design Programs 
+6. The C Programming Language (BRIAN W KERNIGHAN, DENNIS M. RITCHIE) 
+7. The Elements of Style (William Strunk Jr. и E.B. White) 
+8. The Elements of Programming Style (Kernighan и Plauger) 
+9. Code Complete (Steve McConnell) 
+10. Clean Code (Robert C. Martin) 
+11. Refactoring: Improving the Design of Existing Code (M. Fowler) 
+12. The Algorithm Design Manual 
+13. Introduction to Algorithms 
+14. Compiler Principles, Techniques and Tools 
+15. Modern Operating System (Tanenbaum) 
+16. Practical Common Lisp 
+17. Land of LISP 
+18. The Little Schemer 
+19. LISP (LISP In Small Pieces) 
+20. The Well Grounded Rubyist 
+21. Practical Object-Orientetd Design in Ruby 
+22. Effective C++ (Scott Meyers) 
+23. Effective JAVA (Joshua Bloch) 
+24. JAVA Concurrency in Practice 
+25. Growing Object-Oriented Software Guided by Tests 
+26. Predicting the Unpredictable 
+27. Extreme Programming Explained 
+28. Thinking, Fast and Slow 
+29. Godel, Escher, Bach
+
 # Notes on Robert Martin's Clean Code book:
 - bad code tries to do too much
 - clean code has a single purpose, it is focused
@@ -65,6 +96,12 @@ of their business domain is a critical skill
 - Thinking about not losing is not the way to win
 - If you want to really learn something, try teaching it to someone else
 - whenever I want to really learn about something, write about it
+
+# Knowledge Stalking
+
+The following list contains people I found while researching various web dev topics:
+- [Carlos Caballero](https://www.carloscaballero.io/)
+- [Anastasia](https://twitter.com/coffeestasia)
 
 # Code Reviews
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
