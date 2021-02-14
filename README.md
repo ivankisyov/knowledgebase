@@ -103,6 +103,12 @@ The following list contains people I found while researching various web dev top
 - [Carlos Caballero](https://www.carloscaballero.io/)
 - [Anastasia](https://twitter.com/coffeestasia)
 
+# Algorithms and Data Structures
+- [with JS examples](https://github.com/trekhleb/javascript-algorithms)
+
+# Node.js
+- [best practices](https://github.com/goldbergyoni/nodebestpractices)
+
 # Code Reviews
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
