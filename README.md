@@ -151,6 +151,7 @@ The following list contains people I found while researching various web dev top
 - [Tomas Trajan](https://medium.com/@tomastrajan)
 - [Wesley Grimes](https://wesleygrimes.com/)
 - [Minko Gechev](https://blog.mgechev.com/)
+- [Nils Mehlhorn](https://nils-mehlhorn.de/)
 
 ### Angular People
 
