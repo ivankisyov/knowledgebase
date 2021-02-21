@@ -152,16 +152,7 @@ The following list contains people I found while researching various web dev top
 - [Wesley Grimes](https://wesleygrimes.com/)
 - [Minko Gechev](https://blog.mgechev.com/)
 - [Nils Mehlhorn](https://nils-mehlhorn.de/)
-
-### Angular People
-
-- [Victor Savkin](https://vsavkin.com/)
-- [Mike Brocchi](https://twitter.com/brocco)
-- [Justin Schwartzenberger](https://twitter.com/schwarty)
-- [Deborah Kurata](https://twitter.com/DeborahKurata)
-- [Thomas Burleson](https://twitter.com/thomasburleson)
-- [Sam Julien](https://twitter.com/samjulien)
-- [Mike Ryan](https://twitter.com/MikeRyanDev)
+- [Deborah Kurata](https://blogs.msmvps.com/deborahk/)
 
 ### VideoCast
 - [Angular Air](https://angularair.com/)
