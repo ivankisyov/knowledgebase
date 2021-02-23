@@ -110,6 +110,7 @@ The following list contains people I found while researching various web dev top
 - [best practices](https://github.com/goldbergyoni/nodebestpractices)
 
 # Code Reviews
+- [Google Engineering Practices Documentation](https://google.github.io/eng-practices/)
 - [What google taught me about code reviews](https://www.freecodecamp.org/news/what-google-taught-me-about-code-reviews/)
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
